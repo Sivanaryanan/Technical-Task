@@ -1,0 +1,18 @@
+Write a few testcases for booking tickers in redbus.
+
+1)Enter from, To, Date and click on Search Buses.
+2)Click on view seat below fare.
+3)A new popup window appears where user can select the seat of their choice.
+4)Here the seats which are already reserved will be disabled.
+5)I want to capture the seats which are available for booking in excel or data table.
+
+Write a few test cases for the IRCTC Web Application.
+
+1)Check if the page load time is within the acceptable range.
+2) Check if the page loads on slow connections.
+3) Check the response time for any action under light, normal, moderate, and heavy load conditions.
+4) Check the performance of database stored procedures and triggers.
+5) Check the database query execution time.
+6) Check for load testing of the application.
+7) Check for Stress testing of the application.
+8) Check CPU and memory usage under peak load conditions.
