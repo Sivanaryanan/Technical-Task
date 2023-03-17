@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+class Reveres {
+    public static void main (String[] args) {
+
+        String name= "codoid", mt="";
+        char ch;
+
+      System.out.print("Original word: ");
+      System.out.println("codoid");
+
+      for (int i=0; i<str.length(); i++)
+      {
+        ch= name.charAt(i); 
+        mt= ch+mt;
+      }
+      System.out.println("Reversed word: "+ mt);
+    }
+}
